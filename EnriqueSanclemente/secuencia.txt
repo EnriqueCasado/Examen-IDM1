@@ -1,0 +1,21 @@
+Primero --> hacemos un fork para copiar el repositorio original 
+
+Segundo --> usamos el comando git clone <<url>> para copiar en nuestro 
+	servidor local de git el repositorio de github
+
+Tercero --> Creamos una rama para separar el flujo del proyecto de la 
+	rama maestra con git branc <<rama>> y cambiamos a ella con git checkout <<rama>
+
+Cuarto --> usamos git add para añadir los cambios a nuestro servidor local de git 
+
+Quinto --> usamos git commit con la opcion -m <<mensaje>> para decirle al servidor 
+que ahora esa copia mas reciente del archivo y estas conforme con ella.
+
+Sexto --> Usamos git pull para actualizar la rama a la version mas reciente
+
+Septimo --> Usamos git push <<usuario>> <<rama>> para subir a github los commits 
+hechos en la rama actual 
+
+Octavo --> Entramos en github y en nuestro recien creado repositorio clicamos en 
+new pull request para que esos archivos que hemos subido se envien para ser 
+aceptados por el propietario original del repositorio
