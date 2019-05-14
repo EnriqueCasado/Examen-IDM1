@@ -1,0 +1,6 @@
+Esta es mi opinion sobre el modulo ED de DAM1
+Lo que mas me ha gustado ha sido el trimestre en el que hemos aprendido 
+bastantes terminos y metodologias en el lenguaje de programacion C.
+
+No sabria decir que es lo que le ha faltado al modulo, pero se que hay 
+algo que me descontenta.

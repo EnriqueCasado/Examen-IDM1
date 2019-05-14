@@ -1,0 +1,12 @@
+1. Accedo a https://github.com/EnriqueCasado/Examen-IDM1 con mi cuenta de GitHub y realizo un fork al proyecto.
+2. Copio la URL de mi fork, que es una copia completa de Exmane-IDM1
+3. Accedo a git BASH y ejecuto el comando -> git clone https://github.com/metainit/Examen-IDM1.git
+4. Una vez lo tengo clonado en mi ordenador, accedo al respositorio local.
+5. Abro una rama con -> git branch opinionMartin
+6. Cambio a dicha rama con -> git checkout opinionMartin
+7. Creo la carpeta con mi nombre -> mkdir MartinEnrique
+8. Accedo a dicha carpeta -> cd MartinEnrique
+9. Adjunto a la carpeta 2 capturas de el trabajo que estoy realizando.
+10. Creo este fichero "Documentacion.txt" y comienzo a documentar.
+11. Creo otro fichero "Opinion.txt" y doy mi opinion sobre diversos 
+temas.
