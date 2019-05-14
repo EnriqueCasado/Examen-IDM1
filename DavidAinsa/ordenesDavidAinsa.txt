@@ -1,8 +1,9 @@
-﻿Se hace un fork desde el repositorio original desde GitHub
-
-, para después clonar el proyecto del repositorio que se ha hecho fork: 
+Se hace un fork desde el repositorio original desde GitHub,
+para después clonar el proyecto del repositorio que se ha hecho fork: 
 
 git clone https://github.com/davidainsa/Examen-IDM1
+
+Creamos la carpeta DavidAinsa y dentro creamos:
 
 
 
@@ -13,8 +14,8 @@ vim opinionDavidAinsa.txt para crear el archivo de opinión del módulo
 
 
 
-a partir de ahora añadimos los archivos para hacer el commit, para ello utilizamos:
-git add [nombreArchivo]
+a partir de ahora añadimos la carpeta para hacer el commit, para ello utilizamos:
+git add DavidAinsa
 
 Ejecutamos un "git status" para ver que archivos tenemos preparados, y finalmente hacemos "git commit -m" para añadirlos al proyecto. La -m del final es para añadir un mensaje a tu commit y poder diferenciarlos de los demás.
 
