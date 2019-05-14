@@ -1,0 +1,7 @@
+-Lo que mas me ha gustado de entornos de desarrolo: 
+	-aprender a usar git y gitHub
+	-aprender el lenguaje C (aun que hay sido dificil)
+	-son clases muy dinamicas y practicas
+-Lo que menos me ha gustado:
+	-No centrarse en un unico lenguaje mas actual
+	-Algunas clases eran demaisada teoría
