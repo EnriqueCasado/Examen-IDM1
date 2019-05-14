@@ -10,4 +10,5 @@ el quinto , realizar el mismo paso anterior pero con este archivo.
 el sexto paso, será realizar el git add, para despues, realizar el git status, y comprobar que todo esta preparado para ser enviado.
 MUY IMPORTANTE, antes de enviar, realizar git commit -m "Nombre identificable" (este nombre identificable, en caso de 
 realizar mas commits, nos ayudaria a seguir los cambios realizados en caso de hacer mas commits; para ello, usar 
-git log --stat -M , y observar los commits) . Una vez hecho el commit, hacer git pull.
+git log --stat -M , y observar los commits) . Una vez hecho el commit, hacer git pull y por ultimo, 
+git remote add examen
