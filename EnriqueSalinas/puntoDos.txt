@@ -1,0 +1,48 @@
+
+Ceacición de carpeta para el examen llamada examengit
+
+Añadido un repositorio remoto con el nombre casado:
+
+	git remote add origin https://github.com/EnriqueCasado/Examen-IDM1
+
+Clonado el repositorio del examen para trabajar en local:
+
+	 git clone https://github.com/EnriqueCasado/Examen-IDM1.git
+
+Realización punto uno:
+
+	vi puntoUno.txt
+
+Realización punto dos:
+
+	vi puntoDos.txt
+
+Realización punto tres:
+
+	crear archivo pantallazo.docx donde pegar la impresión de la pantalla
+
+Añado archivos al seguimiento:
+
+	git add .
+
+Compruebo el estado:
+
+	git status
+
+Comiteo los cambios:
+
+	git commit
+
+Hago un york desde github para añadir el repositorio del examen a mi cuenta 
+
+Añado mi repossitorio local:
+
+	git remote examen https://github.com/kikotes86/Examen-IDM1.git
+
+Mandar cambios a mi repositorio en git hub: 
+
+	git push examen master
+
+Desde github hacer un pullrequest al repositorio de Enrique Casado.
+
+
