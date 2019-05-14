@@ -22,4 +22,6 @@ git commit -m "Commit acabado"
 
 - Una vez hemos confirmado los cambios y lo tenemos listos enviamos:
 
-git push https://github.com/EnriqueCasado/Examen-IDM1.git master
+git push https://github.com/MiquelEscala/Examen-IDM1 master
+
+- Enviamos el pull request al autor y listo
