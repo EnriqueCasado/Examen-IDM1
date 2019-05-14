@@ -1,0 +1,38 @@
+1. cd Desktop
+
+2. cd Examen_3ª_Evaluación
+
+3. git clone https://github.com/saulotal2/Examen-IDM1.git
+
+4. cd Examen-IDM1
+
+5. git add Entornos.txt
+
+6. git status
+
+7. git commit -m "Primer archivo"
+
+8. git status
+
+9. git branch pruebas
+
+10. git checkout pruebas
+
+11. git add .
+
+12. git status
+
+13. git pull  https://github.com/EnriqueCasado/Examen-IDM1
+
+14. git commit-m "Continuación"
+
+15. git checkout master
+
+16. git merge pruebas
+
+17. git add .
+
+18. git commit -m "Final"
+
+19. git push origin master
+
