@@ -1,0 +1,18 @@
+
+-He hecho un fork del repositorio raiz de EnriqueCasado
+-git clone (url de MI repositorio)
+-git remote add (url del repositorio raiz de EnriqueCasado) lo he 
+llamado original
+-he creado una carpeta con mi nombre y 3 archivos
+-git pull -r original mastar ( para actualizarlo)
+-git checkout -b ramaExamen ( para crear y trabajar en la rama)
+-he modificado los archivos pertinentes
+-git commit
+-volvemos a hacer git pull -r original master (por si ha habido alguna 
+modificacion en el archivo raiz)
+-git push origin original
+-Una vez subido le pedimos a EnriqueCasado un compare and pull request 
+desde github 
+-solo tendra que comprabar que se adecua a sus necesidades y añadirlo a 
+la rama raiz
+
