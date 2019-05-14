@@ -1,0 +1,5 @@
+Mi opinion sobre el modulo de ED es en general buena aunque si que es verdad que en 
+la segunda y tercera evaluacion se podria haber trabajado más a fondo algunos puntos, 
+por ejemplo en GitHub podriamos haber creado una calculadora en C, en la segunda creo que
+debimos haber trabajado más C pues no dimos muchas cosas y creo que pudimos haber 
+realizado más.

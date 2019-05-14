@@ -1,0 +1,30 @@
+La secuencia de órdenes que he seguido para realizar estar aportaciones son, desde el principio:
+git clone LinkDelRepositorio
+	Para tener el repositorio pedido.
+git branch ExamenGIT
+	Para trabajar en otra rama sin problemas de conflictos, por el momento.
+git checkout ExamenGIT
+	Para cambiar a la nueva rama creada.
+
+A partir de aqui he creado un carpeta manualmente, la he llamado GuillermoCarreras y he accedido con git a ella con cd GuillermoCarreras.
+
+vim OpinionSobreED.txt
+	Aqui creo el primer archivo que se nos pide y donde he puesto mi opinion sobre el modulo de Entornos de Desarrollo y he hecho la primera captura de pantalla.
+git add OpinionSobreED.txt
+	He añadido el archivo para seguirlo.
+git commit OpinionSobreED.txt -m "Primer archivo de texto pedido en el examen."
+	He realizado el commit para tenerlo confirmado una vez tenga que realizar el git push.
+
+Aqui he realizado otra captura de pantalla, la segunda.
+He guardado este archivo dandole al Esc y escribiendo :wq
+He hecho un git add a todas las capturas que he realizado, posteriormente un git commit a todas ellas.
+Para finalizar he realizado la ultima captura de pantalla y he hecho git add y git commit.
+
+Pensaba que habia terminado pero no, me faltaba hacer un merge de la rama que he creado con la master, he realizado otra captura y ahora por ultimo estoy modificando por ultima vez, o eso espero, este archivo.
+
+Para el merge, estando en la rama ExamenGIT he hecho:
+git checkout master
+git merge ExamenGIT
+
+Y esos dos son los ultimos comandos usados, a parte de los que voy a realizar ahora
+para hacer el git add y commit de este archivo, otra vez.
