@@ -1,0 +1,11 @@
+1. git init --> inicializamos el repositorio.
+2. git clone [url repositorio] --> descargamos en nuestro repositorio local el repositorio remoto.
+3. git branch nuevaRama --> creamos una nueva rama sobre la cual vamos a trabajar.
+4. git checkout nuevaRama --> cambiamos a la nuevaRama que acabamos de crear. 
+5. mkdir carpeta --> creamos la carpeta donde vamos a depositar nuestros archivos.
+6. nano file.txt --> creamos los archivos de texto.
+7. git add archivo --> añadimos los archivos.
+8. git status --> comprobamos que están todos los archivos.
+9. git commit -m "Primer commit" --> realizamos el commit para registrar los cambios.
+10. git push --> enviamos los cambios al repositorio remoto.
+11. Una vez enviados el propietario debe aceptarlos.
