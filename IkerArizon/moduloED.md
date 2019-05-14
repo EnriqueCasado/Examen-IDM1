@@ -1,0 +1,1 @@
+Considero que en el módulo de ED lo que mas ha gustado es la interacción y el buen ambiente en clase, y lo que le ha faltado, quizás es el saber exactamente lo que entra para el exámen, en cuanto a temario, el tema es reducido, pero me gustaría haber podido trabajar algo de javascript y no tanto xml.
