@@ -1,0 +1,6 @@
+1- git init
+2- git checkout -b "AlbertoSaz_rama" cambiamos la rama en la que trabajaremos.
+3- git status
+4- git add [nombre de la carpeta]
+5- git commit -m "subida carpeta"
+6- git push al repositorio origen
